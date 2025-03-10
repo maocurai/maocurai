@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Maryna</h1>
-<h3 align="center">A passionate Java developer from Ukraine</h3>
+<h1 align="left">Hello👋</h1>
+<p align="left">I'm Maryna a passionate Java developer from Ukraine</p>
 
 - 🌱 I’m currently learning **Spring Boot, Angular**
 
